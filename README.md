@@ -1,7 +1,9 @@
 # Bob
 <p align="center">
-  <br>
-  ✨  <strong><em>Do it. Do it more. Do it again. Fail. Fail better.  ---M. Atwood</em></strong>  ✨<br> 
+  <br>  
+  <img src="/BalmhornRegion_ZH-CN7523037492_1920x1080.jpg" width="400px" align="center">
+  <br><br>  
+  ✨  <strong><em>Do it. Do it more. Do it again. Fail. Fail better.  ---M. Atwood</em></strong>  ✨<br>
 </p> 
 
 
