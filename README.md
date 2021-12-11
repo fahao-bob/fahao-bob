@@ -1,8 +1,8 @@
 # Bob
 <p align="center">
   <br>
-  ✨ <strong><em>Do it. Do it more. Do it again. Fail. Fail better.---M. Atwood</em></strong><br> ✨
-</p>
+  ✨ <strong><em>Do it. Do it more. Do it again. Fail. Fail better.---M. Atwood</em></strong> ✨<br> 
+</p> 
 
 
 ## Education
