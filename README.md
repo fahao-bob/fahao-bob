@@ -1,5 +1,8 @@
 # Bob
 
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
+
 ## Education
 
 - **B.S.** in chemical engineering and technology, Taiyuan University of Technology, Sep 2012 - Jul 2016
