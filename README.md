@@ -1,16 +1,15 @@
-### Hi there 👋
+# Bob
 
-<!--
-**fahao-bob/fahao-bob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Education
 
-Here are some ideas to get you started:
+- **B.S.** in chemical engineering and technology, Taiyuan University of Technology, Sep 2012 - Jul 2016.
+- **M.s**  in Chemistry,East China University of Science and Technology, Sep 2016 - Jul 2019.
+- **PhD** in Chemistry, Nanjing University, Aug 2019 - Present.
 
-🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research
+
+- Polarizable force field of ionic liquids (ILs). 
+- Neural network potentials of ionic liquids
+- Peptides self-assembly
+  
+
