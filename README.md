@@ -10,8 +10,9 @@
 ## Education
 
 - **B.S.** in Chemical Engineering and Technology, Taiyuan University of Technology (TYUT), Sep 2012 - Jul 2016
-- **M.S.**  in Physical Chemistry, East China University of Science and Technology (ECUST), Sep 2016 - Jul 2019
-- **PhD.** in Physical Chemistry, Nanjing University (NJU), Aug 2019 - Present
+- **M.S.**  in Theoretical and computational chemistry, East China University of Science and Technology (ECUST), Sep 2016 - Jul 2019
+- **PhD.** in Theoretical and computational chemistry, Nanjing University (NJU), Aug 2019 - Dec 2023
+- **Postdoct** in Theoretical and computational chemistry, university of Maryland, Baltimore (UMB), Feb 2024 - present
 
 ## Research
 
